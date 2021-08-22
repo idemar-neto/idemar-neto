@@ -1,16 +1,12 @@
-### Hi there 👋
+### Oiie 👋🏾 eu sou o Idemar Neto
 
-<!--
-**idemar-neto/idemar-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height = "180 cm"  src="https://github-readme-stats-idemar-neto.vercel.app/api/top-langs?username=idemar-neto&theme=midnight-purple&layout=compact"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://www.linkedin.com/in/idemarneto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/idemar-neto">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
