@@ -1,7 +1,7 @@
 ### Oiie 👋🏾 eu sou o Idemar Neto
 
 <div>
-  <img height = "180 cm"  src="https://github-readme-stats-brown-kappa.vercel.app/api/top-langs?username=idemar-neto&theme=midnight-purple&layout=compact"/>
+  <img height = "180 cm"  src="https://github-readme-stats-78fjjxs11-idemar-neto.vercel.app/api/top-langs?username=idemar-neto&theme=midnight-purple&layout=compact"/>
 </div>
 
 <div>
