@@ -6,10 +6,10 @@
 - 🎶 Sou movido pela música diariamente
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=190px src="https://github-readme-stats.vercel.app/api?username=idemar-neto&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img align="center" height=150px src="https://github-readme-stats.vercel.app/api?username=idemar-neto&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=idemar-neto&layout=compact&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true" />
+  <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=idemar-neto&layout=compact&count_private=true&theme=midnight-purple&show_icons=true&hide_border=true" />
 </a>
 
 <p>&nbsp;</p>
