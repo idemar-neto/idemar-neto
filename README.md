@@ -1,6 +1,6 @@
 ### Oie 👋🏾 eu sou Idemar Neto 😁
 
-- 🧑🏾‍💻 Graduando em Sistemas de Informações na USP
+- 🧑🏾‍💻 Graduado em Sistemas de Informações na USP
 - 📚 Curioso por tudo
 - ⚽ Apaixonado por tecnologia e esporte
 - 🎶 Sou movido pela música diariamente
