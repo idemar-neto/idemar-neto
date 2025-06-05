@@ -1,4 +1,4 @@
-### Oie 👋🏾 eu sou Idemar Neto 😁
+### Hey 👋🏾 eu sou Idemar Neto 😁
 
 - 🧑🏾‍💻 Graduado em Sistemas de Informações na USP
 - 📚 Curioso por tudo
