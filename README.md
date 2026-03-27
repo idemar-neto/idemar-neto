@@ -1,6 +1,7 @@
 ### Hey 👋🏾 eu sou Idemar Neto 😁
 
-- 🧑🏾‍💻 Graduado em Sistemas de Informações na USP
+- 🧑🏾‍💻 Desenvolvedor Pleno @ GoPoints Tecnologia em Incentivos
+- 🧑🏾‍💻 Bacharel em Sistemas de Informações formado pela USP
 - 📚 Curioso por tudo
 - ⚽ Apaixonado por tecnologia e esporte
 - 🎶 Sou movido pela música diariamente
